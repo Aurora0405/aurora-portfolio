@@ -7,10 +7,6 @@
 }
 
 
-/* =========================
-   NAVBAR
-========================= */
-
 .navbar {
   position: fixed;
   top: 0;
@@ -121,10 +117,6 @@
 }
 
 
-/* =========================
-   HERO
-========================= */
-
 .hero {
   min-height: 100vh;
 
@@ -226,10 +218,6 @@
 }
 
 
-/* =========================
-   BUTTONS
-========================= */
-
 .btn {
   display: inline-flex;
 
@@ -288,10 +276,6 @@
   border-color: #66667d;
 }
 
-
-/* =========================
-   CODE CARD
-========================= */
 
 .hero-visual {
   display: flex;
@@ -395,10 +379,6 @@ pre {
 }
 
 
-/* =========================
-   GENERAL
-========================= */
-
 .about-section,
 .skills-section,
 .experience-section,
@@ -463,10 +443,6 @@ pre {
   line-height: 1.8;
 }
 
-
-/* =========================
-   ABOUT
-========================= */
 
 .about-content {
   display: grid;
@@ -543,10 +519,6 @@ pre {
   line-height: 1.6;
 }
 
-
-/* =========================
-   SKILLS
-========================= */
 
 .skills-grid {
   display: grid;
@@ -642,10 +614,6 @@ pre {
 }
 
 
-/* =========================
-   EXPERIENCE
-========================= */
-
 .experience-layout {
   display: grid;
 
@@ -656,8 +624,6 @@ pre {
   align-items: start;
 }
 
-
-/* COMPANY CARD */
 
 .company-card {
   position: sticky;
@@ -803,8 +769,6 @@ pre {
 }
 
 
-/* TIMELINE */
-
 .experience-timeline {
   position: relative;
 }
@@ -877,8 +841,6 @@ pre {
     0 0 20px rgba(119, 101, 255, 0.55);
 }
 
-
-/* EXPERIENCE CARD */
 
 .experience-card {
   padding: 32px;
@@ -1061,10 +1023,6 @@ pre {
 }
 
 
-/* =========================
-   PROJECTS
-========================= */
-
 .projects-section {
   padding: 110px 8%;
 
@@ -1119,8 +1077,6 @@ pre {
     );
 }
 
-
-/* MAIN PROJECT IMAGE */
 
 .main-project-image {
   position: relative;
@@ -1180,8 +1136,6 @@ pre {
 }
 
 
-/* PROJECT THUMBNAILS */
-
 .project-thumbnails {
   display: grid;
 
@@ -1234,8 +1188,6 @@ pre {
     opacity 0.4s ease;
 }
 
-
-/* DETAIL SCREENSHOT */
 
 .detail-thumb {
   padding: 0;
@@ -1297,8 +1249,6 @@ pre {
   pointer-events: none;
 }
 
-
-/* PROJECT INFO */
 
 .project-info {
   display: flex;
@@ -1446,8 +1396,6 @@ pre {
 }
 
 
-/* SECOND PROJECT */
-
 .secondary-project {
   position: relative;
 
@@ -1507,10 +1455,6 @@ pre {
   line-height: 1.7;
 }
 
-
-/* =========================
-   CONTACT
-========================= */
 
 .contact-section {
   padding: 120px 8%;
@@ -1627,10 +1571,6 @@ pre {
 }
 
 
-/* =========================
-   FOOTER
-========================= */
-
 .footer {
   min-height: 110px;
 
@@ -1670,10 +1610,6 @@ pre {
 }
 
 
-/* =========================
-   ANIMATIONS
-========================= */
-
 @keyframes fadeUp {
 
   from {
@@ -1692,10 +1628,6 @@ pre {
 
 }
 
-
-/* =========================
-   RESPONSIVE
-========================= */
 
 @media (max-width: 1200px) {
 
